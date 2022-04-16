@@ -18,7 +18,7 @@ class HelpMod(loader.Module):
                "single_mod_header": "<b>Информация о </b> <u>{}</u>:\n", 
                "single_cmd": "\n👉 {}\n", 
                "undoc_cmd": "...", 
-               "all_header": 'У вас  <code>{}</code> модулей [zxc_dfr3ddy]:\n\n', 
+               "all_header": 'У вас  <code>{}</code> модулей [@zxc_dfr3ddy]:\n\n', 
                "mod_tmpl": '\n[🇩🇪]<code>{}</code>', 
                "first_cmd_tmpl": " 👉 [ {}", 
                "cmd_tmpl": " | {}",} 
