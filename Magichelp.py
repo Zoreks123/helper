@@ -79,7 +79,7 @@ class HelpMod(loader.Module):
                         else: 
                             reply += self.strings("cmd_tmpl", message).format(cmd) 
                     reply += " ]" 
-        await utils.answer(message, reply) 
+       
          
   
 
