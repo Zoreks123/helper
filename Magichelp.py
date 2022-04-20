@@ -81,10 +81,5 @@ class HelpMod(loader.Module):
                     reply += " ]" 
         await utils.answer(message, reply) 
          
-    async def client_ready(self, client, db): 
-        self.client = client 
-        self.is_bot = await client.is_bot() 
-        self.db = db
-     async def supportcmd(self, message):
-    await message.edit("<b> Support as : @FoxDfr3ddy </b>
+  
 
