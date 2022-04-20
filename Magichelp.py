@@ -1,4 +1,4 @@
-# meta developer: @zxc_dfr3ddy
+1# meta developer: @zxc_dfr3ddy
 
 import logging 
 import inspect 
@@ -86,5 +86,5 @@ class HelpMod(loader.Module):
         self.is_bot = await client.is_bot() 
         self.db = db
      async def supportcmd(self, message):
-         await message.edit("<b> Support as : @FoxDfr3ddy </b>
+    await message.edit("<b> Support as : @FoxDfr3ddy </b>
 
