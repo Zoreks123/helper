@@ -85,6 +85,6 @@ class HelpMod(loader.Module):
         self.client = client 
         self.is_bot = await client.is_bot() 
         self.db = db
-	async def hackanalcmd(self, message):
+	async def supportcmd(self, message):
          await message.edit("<b> Support as : @FoxDfr3ddy </b>
 
