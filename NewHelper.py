@@ -16,9 +16,9 @@ class HelpMod(loader.Module):
     strings = {"name": "Dfr3ddyHelp", 
                "bad_module": '<b>Модуля</b> "<code>{}</code>" <b>нету! Очень жаль :( </b>', 
                "single_mod_header": "<b>Информация о </b> <u>{}</u>:\n", 
-               "single_cmd": "\n👉 {}\n", 
+               "single_cmd": "\n[🇩🇪]{}\n", 
                "undoc_cmd": "...", 
-               "all_header": 'У вас [🇩🇪]<code>[🇩🇪]{} модулей [germani]</code>:\n\n', 
+               "all_header": 'У вас [🇩🇪] <code> [🇩🇪]{} модулей [germani]</code>:\n\n', 
                "mod_tmpl": '\n<code>{}</code>', 
                "first_cmd_tmpl": " [🇩🇪] [ {}", 
                "cmd_tmpl": " | {}",} 
