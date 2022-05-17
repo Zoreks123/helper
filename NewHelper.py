@@ -1,4 +1,4 @@
-# meta developer: @zxc_dfr3ddy
+# meta developer: @ily_nn
 
 import logging 
 import inspect 
@@ -25,7 +25,7 @@ class HelpMod(loader.Module):
  
     @loader.unrestricted 
     async def helpcmd(self, message): 
-        """.help [модуль] creator [@zxc_dfr3ddy]""" 
+        """.help [модуль] creator [@ily_nn]""" 
         args = utils.get_args_raw(message) 
         if args: 
             module = None 
